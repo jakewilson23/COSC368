@@ -53,8 +53,6 @@ class FittsLawTestUI(object):
     def run_test(self):
         self.file_out = open('fitts_law_test_ui_log.txt', 'w', newline='')
         self.randomize_test()
-        print(self.distances)
-        print(self.widths)
         self.draw_rectangles()
 
     def randomize_test(self):
