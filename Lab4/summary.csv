@@ -1,33 +1,7 @@
-ID,Mean Time,
-2.32,0.444,
-3.17,0.512,
-4.09,0.619,
-5.04,0.736,
-1.58,0.275,
-6.02,0.838,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,My Values
-,,Y-Intercept = A = 0.12306
-, ,Slope = B = 0.12087
-,,Throughput Value (Bandwidth) = 1/b
-,,Throughput Value (Bandwidth) = 1/0.12087 = 8.27335 bits/second
-,,Is it in the anticipated range (5-10 bits/second)? Yes it is.
+ID,Mean Time
+2.32,0.444
+3.17,0.512
+4.09,0.619
+5.04,0.736
+1.58,0.275
+6.02,0.838

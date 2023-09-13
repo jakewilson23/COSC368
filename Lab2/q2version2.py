@@ -36,6 +36,7 @@ class KeyboardTest(object):
             self.file_out = open('experiment_static_log.txt', 'w', newline='')
             self.test_type = "static"
             self.build_keyboard()
+            self.shuffle_keyboard()
 
     def populate_blocks(self):
         for num in range(self.num_blocks):
